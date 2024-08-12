@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏼‍💻 About Me:
 🎓 Physics Undergraduate at Federal University of Alfenas<br><br>🔬 Enthusiast of embedded systems and microcontrollers, with a particular interest in how these technologies can drive experimental physics.<br><br>🛠️ Skills:<br><br>    Programming in C++ and Python<br>    Embedded system development<br>    Applying physical concepts to experimental projects<br><br>🚀 Objective:<br>To utilize my skills in programming and embedded systems to contribute to research and development in experimental physics, aiming to innovate and solve complex problems.
 
 
