@@ -1,5 +1,18 @@
 # 👨🏼‍💻 About Me:
-🎓 Physics Undergraduate at Federal University of Alfenas<br><br>🔬 Enthusiast of embedded systems and microcontrollers, with a particular interest in how these technologies can drive experimental physics.<br><br>🛠️ Skills:<br><br>    Programming in C++ and Python<br>    Embedded system development<br>    Applying physical concepts to experimental projects<br><br>🚀 Objective:<br>To utilize my skills in programming and embedded systems to contribute to research and development in experimental physics, aiming to innovate and solve complex problems.
+🎓 Physics Undergraduate at Federal University of Alfenas (UNIFAL)<br><br>
+
+🔬 Enthusiast of quantum computing, with a growing interest in its theoretical foundations and practical applications — especially in areas that intersect with experimental physics and information processing.<br><br>
+
+🧠 Previously focused on embedded systems and microcontrollers, now expanding into the quantum realm, exploring how classical and quantum technologies can work together to drive innovation.<br><br>
+
+🛠️ Skills:<br><br>
+  • Programming in C++ and Python<br>
+  • Quantum computing (Qiskit, theoretical foundations)<br>
+  • Embedded systems and instrumentation<br>
+  • Applying physical principles to real-world problems<br><br>
+
+🚀 Objective:<br>
+To contribute to research and development in quantum computing and experimental physics, combining computational tools with physical insight to explore and solve complex scientific challenges.
 
 
 ## 🌐 Socials:
